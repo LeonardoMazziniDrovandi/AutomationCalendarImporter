@@ -65,9 +65,9 @@ pip3 install pandas openpyxl google-api-python-client google-auth
 ```
 
 **Avvio dello Script**
-- Assicurati di avere `prova.py` e `credenziali.json` nella stessa cartella:
+- Assicurati di avere `automationCalendarImporter.py` e `credenziali.json` nella stessa cartella:
 ```bash
-python3 prova.py
+python3 automationCalendarImporter.py
 ```
 
 ---
