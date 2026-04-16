@@ -56,16 +56,16 @@ Senza questo passaggio, Google bloccherà l'accesso allo script anche se le chia
 ## 🚀 Installazione e Utilizzo
 
 **Installa Python**
-Vai sul sito ufficiale Python e installa il [Python install manager]([https://calendar.google.com/](https://www.python.org/downloads/)).
+- Vai sul sito ufficiale Python e installa il [Python install manager]([https://calendar.google.com/](https://www.python.org/downloads/)).
 
 **Apri il prompt dei comandi (CMD)**
-Esegui questo comando all'interno del CMD per installare le librerie necessarie:
+- Esegui questo comando all'interno del CMD per installare le librerie necessarie:
 ```bash
 pip3 install pandas openpyxl google-api-python-client google-auth
 ```
 
 **Avvio dello Script**
-Assicurati di avere `prova.py` e `credenziali.json` nella stessa cartella:
+- Assicurati di avere `prova.py` e `credenziali.json` nella stessa cartella:
 ```bash
 python3 prova.py
 ```
