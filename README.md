@@ -56,7 +56,7 @@ Senza questo passaggio, Google bloccherà l'accesso allo script anche se le chia
 ## 🚀 Installazione e Utilizzo
 
 **Installa Python**
-- Vai sul sito ufficiale Python e installa il [Python install manager]([https://calendar.google.com/](https://www.python.org/downloads/)).
+- Vai sul sito ufficiale Python e installa il [Python install manager](https://www.python.org/downloads/).
 
 **Scarica il repo**
 ```bash
