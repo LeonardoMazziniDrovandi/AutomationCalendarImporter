@@ -58,6 +58,11 @@ Senza questo passaggio, Google bloccherà l'accesso allo script anche se le chia
 **Installa Python**
 - Vai sul sito ufficiale Python e installa il [Python install manager]([https://calendar.google.com/](https://www.python.org/downloads/)).
 
+**Scarica il repo**
+```bash
+git clone https://github.com/LeonardoMazziniDrovandi/AutomationCalendarImporter.git
+```
+
 **Apri il prompt dei comandi (CMD)**
 - Esegui questo comando all'interno del CMD per installare le librerie necessarie:
 ```bash
